@@ -1,0 +1,29 @@
+int varA = 100, thickThigh;
+static int varB; // Auto Static (Satanic???)
+void** drWho;
+
+/*
+Cumment
+ah
+/*
+*** /
+**/
+
+char* str = "str! ! !";
+
+// char* str2 = "str! ! !";
+
+int fooSaidWho(int x)
+{
+	return x * x;
+}
+
+int bar(int l)
+{
+	int i = 0;
+	while (i < l)
+	{
+		i = fooSaidWho(i) + 1;
+	}
+	return i * l;
+}
